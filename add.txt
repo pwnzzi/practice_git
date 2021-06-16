@@ -1,3 +1,0 @@
-
-my name is David 
-this one is for practice of git
